@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Feed List</title>
+  </head>
+  <body>
+    <outline title="RSS" text="RSS" description="RSS" type="folder">
+      <outline title="&#x962E;&#x4E00;&#x5CF0;&#x7684;&#x7F51;&#x7EDC;&#x65E5;&#x5FD7;" text="&#x962E;&#x4E00;&#x5CF0;&#x7684;&#x7F51;&#x7EDC;&#x65E5;&#x5FD7;" description="&#x962E;&#x4E00;&#x5CF0;&#x7684;&#x7F51;&#x7EDC;&#x65E5;&#x5FD7;" type="rss" xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline title="Paul Graham: Essays" text="Paul Graham: Essays" description="Paul Graham: Essays" type="rss" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="http://www.paulgraham.com/"/>
+      <outline title="&#x5C11;&#x6570;&#x6D3E;" text="&#x5C11;&#x6570;&#x6D3E;" description="&#x5C11;&#x6570;&#x6D3E;" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
+      <outline title="HelloGitHub &#x6708;&#x520A;" text="HelloGitHub &#x6708;&#x520A;" description="HelloGitHub &#x6708;&#x520A;" type="rss" xmlUrl="https://hellogithub.com/rss" htmlUrl="https://hellogithub.com"/>
+    </outline>
+    <outline title="Podcast" text="Podcast" description="Podcast" type="folder">
+      <outline title="&#x6355;&#x86C7;&#x8005;&#x8BF4;" text="&#x6355;&#x86C7;&#x8005;&#x8BF4;" description="&#x6355;&#x86C7;&#x8005;&#x8BF4;" type="rss" xmlUrl="https://pythonhunter.org/feed/audio.xml" htmlUrl="https://pythonhunter.org/"/>
+      <outline title="EmacsTalk" text="EmacsTalk" description="EmacsTalk" type="rss" xmlUrl="https://emacstalk.codeberg.page/podcast/index.xml" htmlUrl="https://emacstalk.codeberg.page/podcast/"/>
+      <outline title="ByteTalk" text="ByteTalk" description="ByteTalk" type="rss" xmlUrl="https://bytetalk.fm/index.xml" htmlUrl="https://bytetalk.fm"/>
+      <outline title="&#x67AB;&#x8A00;&#x67AB;&#x8BED;" text="&#x67AB;&#x8A00;&#x67AB;&#x8BED;" description="&#x67AB;&#x8A00;&#x67AB;&#x8BED;" type="rss" xmlUrl="https://justinyan.me/feed/podcast" htmlUrl="https://fyfy.fm"/>
+      <outline title="Startup4Chinese" text="Startup4Chinese" description="Startup4Chinese" type="rss" xmlUrl="https://anchor.fm/s/90c2e94/podcast/rss" htmlUrl="http://www.Startup4Chinese.com"/>
+      <outline title="&#x66FC;&#x5831; Manny's Newsletter" text="&#x66FC;&#x5831; Manny's Newsletter" description="&#x66FC;&#x5831; Manny's Newsletter" type="rss" xmlUrl="https://open.firstory.me/rss/user/ckb7oop2y0yit0873vc36njil" htmlUrl="https://open.firstory.me/user/mannynewsletter"/>
+      <outline title="&#x5F00;&#x6E90;&#x9762;&#x5BF9;&#x9762;" text="&#x5F00;&#x6E90;&#x9762;&#x5BF9;&#x9762;" description="&#x5F00;&#x6E90;&#x9762;&#x5BF9;&#x9762;" type="rss" xmlUrl="https://feeds.osf2f.net/osf2f.xml" htmlUrl="https://osf2f.net/"/>
+      <outline title="Teahour" text="Teahour" description="Teahour" type="rss" xmlUrl="https://feeds.fireside.fm/teahour/rss" htmlUrl="http://teahour.fm"/>
+      <outline title="&#x5546;&#x4E1A;WHY&#x9171;" text="&#x5546;&#x4E1A;WHY&#x9171;" description="&#x5546;&#x4E1A;WHY&#x9171;" type="rss" xmlUrl="https://feeds.fireside.fm/msbussinesswhy/rss" htmlUrl="https://msbussinesswhy.fireside.fm"/>
+      <outline title="&#x6D25;&#x6D25;&#x4E50;&#x9053;" text="&#x6D25;&#x6D25;&#x4E50;&#x9053;" description="&#x6D25;&#x6D25;&#x4E50;&#x9053;" type="rss" xmlUrl="https://feeds.jjldbk.com/all.xml" htmlUrl="https://dao.fm"/>
+      <outline title="&#x5185;&#x6838;&#x6050;&#x614C;" text="&#x5185;&#x6838;&#x6050;&#x614C;" description="&#x5185;&#x6838;&#x6050;&#x614C;" type="rss" xmlUrl="https://pan.icu/feed" htmlUrl="https://pan.icu"/>
+    </outline>
+  </body>
+</opml>
