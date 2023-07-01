@@ -5,25 +5,26 @@
 	</head>
 	<body>
 		<outline text="feeds">
-			<outline text="代码之外 Beyond Code" xmlUrl="https://anchor.fm/s/e2336750/podcast/rss" type="rss" />
-			<outline type="rss" xmlUrl="https://emacstalk.codeberg.page/podcast/index.xml" text="EmacsTalk" />
-			<outline type="rss" xmlUrl="https://feeds.fireside.fm/teahour/rss" text="Teahour" />
-			<outline type="rss" xmlUrl="https://anchor.fm/s/90c2e94/podcast/rss" text="Startup4Chinese" />
-			<outline xmlUrl="https://bytetalk.fm/index.xml" type="rss" text="ByteTalk" />
-			<outline xmlUrl="https://pan.icu/feed" text="内核恐慌" type="rss" />
-			<outline text="声动早咖啡" xmlUrl="https://feeds.fireside.fm/sheng-espresso/rss" type="rss" />
+			<outline xmlUrl="https://anchor.fm/s/e2336750/podcast/rss" text="代码之外 Beyond Code" type="rss" />
+			<outline text="EmacsTalk" xmlUrl="https://emacstalk.codeberg.page/podcast/index.xml" type="rss" />
+			<outline xmlUrl="https://feeds.fireside.fm/teahour/rss" text="Teahour" type="rss" />
+			<outline xmlUrl="https://anchor.fm/s/90c2e94/podcast/rss" type="rss" text="Startup4Chinese" />
+			<outline text="ByteTalk" xmlUrl="https://bytetalk.fm/index.xml" type="rss" />
+			<outline text="内核恐慌" type="rss" xmlUrl="https://pan.icu/feed" />
+			<outline type="rss" xmlUrl="https://feeds.fireside.fm/sheng-espresso/rss" text="声动早咖啡" />
 			<outline type="rss" text="商业WHY酱" xmlUrl="https://feeds.fireside.fm/msbussinesswhy/rss" />
-			<outline text="捕蛇者说" xmlUrl="https://pythonhunter.org/feed/audio.xml" type="rss" />
-			<outline xmlUrl="https://etw.fm/rss" type="rss" text="声东击西" />
-			<outline type="rss" xmlUrl="https://feeds.osf2f.net/osf2f.xml" text="开源面对面" />
-			<outline text="津津乐道" xmlUrl="https://feeds.daopub.com/all.xml" type="rss" />
+			<outline text="捕蛇者说" type="rss" xmlUrl="https://pythonhunter.org/feed/audio.xml" />
+			<outline text="声东击西" xmlUrl="https://etw.fm/rss" type="rss" />
+			<outline type="rss" text="开源面对面" xmlUrl="https://feeds.osf2f.net/osf2f.xml" />
+			<outline xmlUrl="https://feeds.daopub.com/all.xml" type="rss" text="津津乐道" />
 			<outline text="曼報 Manny&apos;s Newsletter" type="rss" xmlUrl="https://open.firstory.me/rss/user/ckb7oop2y0yit0873vc36njil" />
-			<outline text="枫言枫语" xmlUrl="https://justinyan.me/feed/podcast" type="rss" />
-			<outline type="rss" text="土象电池 Normal Sisters" xmlUrl="https://feed.xyzfm.space/pcqtknt4dkj7" />
+			<outline type="rss" text="枫言枫语" xmlUrl="https://justinyan.me/feed/podcast" />
+			<outline text="土象电池 Normal Sisters" xmlUrl="https://feed.xyzfm.space/pcqtknt4dkj7" type="rss" />
 			<outline type="rss" text="不把天聊si" xmlUrl="http://www.ximalaya.com/album/51103902.xml" />
-			<outline text="两个女朋友" xmlUrl="http://www.ximalaya.com/album/45891246.xml" type="rss" />
-			<outline xmlUrl="https://www.ximalaya.com/album/73927500.xml" text="除你武器" type="rss" />
+			<outline xmlUrl="http://www.ximalaya.com/album/45891246.xml" type="rss" text="两个女朋友" />
+			<outline xmlUrl="https://www.ximalaya.com/album/73927500.xml" type="rss" text="除你武器" />
 			<outline xmlUrl="https://www.ximalaya.com/album/75191382.xml" text="晨读时间" type="rss" />
+			<outline xmlUrl="http://www.ximalaya.com/album/30516031.xml" type="rss" text="谐星聊天会" />
 		</outline>
 	</body>
 </opml>
